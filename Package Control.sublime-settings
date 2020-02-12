@@ -11,15 +11,20 @@
 		"Babel",
 		"BracketHighlighter",
 		"Color Highlight",
+		"Color Highlighter",
 		"ColorPicker",
 		"Emmet",
 		"ERB Snippets",
+		"ESLint",
 		"Git",
+		"HTML-CSS-JS Prettify",
 		"Latest Migration",
 		"MagicPython",
 		"Package Control",
 		"SCSS",
 		"SublimeLinter",
+		"SublimeLinter-eslint",
+		"SublimeLinter-jshint",
 		"SublimeLinter-rubocop"
 	]
 }
